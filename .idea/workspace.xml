@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7424e04a-eb7a-4cbe-bbe9-cf1dbcf9d2bb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Case_John_HW3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/Case_John_HW3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AReM/bendingType.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AReM/cycling/dataset14.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AReM/cycling/dataset14.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AReM/cycling/dataset9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AReM/cycling/dataset9.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AReM/sensorsPlacement.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/Case_John_HW3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/Case_John_HW3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,36 +21,36 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "johncase17"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;johncase17&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/johncase17/DataScience552HW3.git",
-    "accountId": "2b5d9d59-7ee8-40e8-892f-78afd1f6d1bb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/johncase17/DataScience552HW3.git&quot;,
+    &quot;accountId&quot;: &quot;2b5d9d59-7ee8-40e8-892f-78afd1f6d1bb&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3KRc1X8oFclz1RsCDEpoQLf3n1K" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/johnc/PycharmProjects/DSCI552HW3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/johnc/PycharmProjects/DSCI552HW3&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\johnc\PycharmProjects\DSCI552HW3" />
